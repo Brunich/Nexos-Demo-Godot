@@ -1,5 +1,9 @@
 # Nexos
 
+> **Archivada (04-10-2026).** Esta demo por turnos quedó como consulta. Nexos sigue en
+> [Brunich/Nexos](https://github.com/Brunich/Nexos), con combate en tiempo real en Godot 4.7.2.
+> *Archived: this turn-based demo is kept for reference; Nexos continues in Brunich/Nexos.*
+
 Fan RPG built in **Godot 4.6** (GDScript). Top-down overworld, turn-based battles, party management, and original creature data. Uses a Gen 3–style battle loop with custom terminology (Vínculo instead of catch, Códice instead of Pokédex).
 
 Not affiliated with Nintendo or The Pokémon Company.
